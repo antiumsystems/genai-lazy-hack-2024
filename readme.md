@@ -35,7 +35,7 @@ For more information, visit the [GenAI-LAZY-Hackathon webpage](hackathon.html).
 
 
 > [!IMPORTANT]
-### 5. IP and Legal Considerations
+> ### 5. IP and Legal Considerations
 
 Intellectual Property and Legal Considerations
 - **Ownership and Rights**: Participants retain ownership of their ideas and any intellectual property developed during the hackathon.
@@ -56,7 +56,7 @@ The submitted projects will be evaluated based on the following criteria:
 - **Collaboration**: The level of collaboration and teamwork demonstrated by the team.
 
 > [!IMPORTANT]
-## Important Dates
+> ## Important Dates
 - **Hackathon Date**: 24th June 2024 09:00 AM - 05:00 PM
 - **Submission Deadline**: 24 th June 2024 04:00 PM
 - **Results Announcement**: 24th June 2024 05:00 PM
@@ -68,7 +68,7 @@ The submitted projects will be evaluated based on the following criteria:
 - [GenAI-LAZY-Hackathon GitHub Repository]()
 
 > [!NOTE]
-## API docs, example code, and tutorials
+> ## API docs, example code, and tutorials
 
 - [GenAI-LAZY-Hackathon API Documentation](api-docs.html)
 - [GenAI-LAZY-Hackathon Example Code](example-code.html)
